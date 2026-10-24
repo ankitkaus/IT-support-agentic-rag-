@@ -1,0 +1,6 @@
+.env
+myvenv/
+__pycache__/
+uploads/
+data/audit.db
+.streamlit/secrets.toml
